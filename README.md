@@ -41,7 +41,7 @@ Mediante un análisis de distribución (Boxplots), determinamos que:
 ### 📈 Hallazgos Visuales
 
 #### Evolución Salarial 2020-2025
-![Gráfica de Evolución](grafica_evolucion .png)
+![Gráfica de Evolución](grafica_evolucion.png)
 
 #### Comparativa de Modalidad de Trabajo
 ![Gráfica de Modalidad](grafica_modalidad.png)
